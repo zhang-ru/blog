@@ -5,25 +5,6 @@
     <link>https://zhang-ru.github.io/blog/tags/</link>
     <description>Recent content in Tags on ZR&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-ru.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>tools</title>
-      <link>https://zhang-ru.github.io/blog/tags/tools/</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhang-ru.github.io/blog/tags/tools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://zhang-ru.github.io/blog/tags/music/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhang-ru.github.io/blog/tags/music/</guid>
-      <description></description>
-    </item>
-    
+    <language>zh-CN</language><atom:link href="https://zhang-ru.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
