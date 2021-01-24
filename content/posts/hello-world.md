@@ -15,4 +15,4 @@ date: 2021-01-24
 现在我怀着愉悦的心情写下了上面的字，期待未来自己能持续输出下去。
 
 
- ![此处是图片测试]（http://zhang-ru.github.io/blog/static/photos/刘堃现场.jpeg）
+ 
