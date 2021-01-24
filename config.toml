@@ -1,6 +1,6 @@
 BaseURL = "https://zhang-ru.github.io/blog/"
 languageCode = "zh-CN"
-title = "ZR's Blog"
+Title = "ZR's Blog"
 theme = "hyde"
 disqusShortname = ""
 hasCJKLanguage = true
