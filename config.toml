@@ -14,7 +14,8 @@ enableEmoji = true
   main = [
       {Name = "Archives", URL = "https://zhang-ru.github.io/blog/posts/"},
       {Name = "Tags", URL = "https://zhang-ru.github.io/blog/tags/"},
-      {Name = "Photos", URL = "https://zhang-ru.github.io/blog/photos/"}
+      {Name = "Photos", URL = "https://zhang-ru.github.io/blog/photos/"},
+      {Name = "Contact Me", URL = "mailto:ru.zhang@outlook.com"}
   ]
 
 [Params]
