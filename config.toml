@@ -23,6 +23,8 @@ enableEmoji = true
   # description about this website
   description = "You are what you choose."
 
+disqusShortname = "spf13"
+
 [Params.valine]
   enable = true
     appId = ''
