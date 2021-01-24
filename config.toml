@@ -2,7 +2,7 @@ BaseURL = "https://zhang-ru.github.io/blog/"
 languageCode = "zh-CN"
 Title = "ZR's Blog"
 theme = "hyde"
-disqusShortname = ""
+disqusShortname = "spf13"
 hasCJKLanguage = true
 enableEmoji = true
 
@@ -23,7 +23,7 @@ enableEmoji = true
   # description about this website
   description = "You are what you choose."
 
-disqusShortname = "spf13"
+
 
 [Params.valine]
   enable = true
