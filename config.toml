@@ -23,8 +23,8 @@ enableEmoji = true
   # description about this website
   description = "You are what you choose."
 
-[params.valine]
-  enable = false
+[Params.valine]
+  enable = yes
     appId = ''
     appKey = ''
     placeholder = '既然来了，那就留个痕迹吧~'
