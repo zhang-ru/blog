@@ -8,6 +8,7 @@ enableEmoji = true
 
 [permalinks]
   posts = "/:filename/"
+  tags = "/:filename/" 
 
 [Menus]
   main = [
