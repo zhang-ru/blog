@@ -1,4 +1,4 @@
-baseURL = "https://zhang-ru.github.io/blog/"
+BaseURL = "https://zhang-ru.github.io/blog/"
 languageCode = "zh-CN"
 title = "ZR's Blog"
 theme = "hyde"
@@ -8,7 +8,7 @@ enableEmoji = true
 
 [permalinks]
   posts = "/:filename/"
-  tags = "/:filename/" 
+  
 
 [Menus]
   main = [
@@ -17,7 +17,7 @@ enableEmoji = true
       {Name = "Photos", URL = "https://zhang-ru.github.io/blog/photos/"}
   ]
 
-[params]
+[Params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # description about this website
