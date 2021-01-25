@@ -6,7 +6,16 @@
     <description>Recent content in Posts on ZR&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-ru.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhang-ru.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>部署PicGO</title>
+      <link>https://zhang-ru.github.io/blog/picgo%E9%83%A8%E7%BD%B2/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhang-ru.github.io/blog/picgo%E9%83%A8%E7%BD%B2/</guid>
+      <description>昨日刚刚把博客搭好，文字可以随便的写了，但是还有一个问题就是Markdown中要包含图片就需要有图床了。我在网上找教程的过程中，发现了图床管</description>
+    </item>
+    
     <item>
       <title>欢迎来到我的博客</title>
       <link>https://zhang-ru.github.io/blog/hello-world/</link>
