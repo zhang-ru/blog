@@ -1,0 +1,33 @@
+BaseURL = "https://zhang-ru.github.io/blog/"
+languageCode = "zh-CN"
+Title = "ZR's Blog"
+theme = "hyde"
+disqusShortname = "spf13"
+hasCJKLanguage = true
+enableEmoji = true
+
+[permalinks]
+  posts = "/:filename/"
+  
+
+[Menus]
+  main = [
+      {Name = "Archives", URL = "https://zhang-ru.github.io/blog/posts/"},
+      {Name = "Tags", URL = "https://zhang-ru.github.io/blog/tags/"},
+      
+  ]
+
+[Params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # description about this website
+  description = "You are what you choose."
+
+
+
+[Params.valine]
+  enable = true
+    appId = 'PAjJDF2f0K4lQFQnJz6VY5Md-gzGzoHsz'
+    appKey = '8RHs2xQcAKAxawgq8cjrqKHY'
+    placeholder = '来都来了，那就留个痕迹吧~'
+    visitor = true
