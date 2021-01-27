@@ -1,11 +1,10 @@
-<figure>
-    {{- /* Lazyload */ -}}
-    {{- $loading := resources.Get "svg/loading.svg" | minify -}}
-    <img src="{{ $loading.RelPermalink | safeURL }}" data-sizes="auto" data-src="{{ .Destination | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} class="lazyload">
-    {{- $caption := .Title | default .Text -}}
-    {{- with $caption -}}
+{{- if .Title -}}
+    <figure>
+        {{- dict "Src" .Destination "Title" .Text "Caption" .Title "Linked" true "Resources" .Page.Resources | partial "plugin/image.html" -}}
         <figcaption class="image-caption">
-            {{- . -}}
+            {{- .Title | safeHTML -}}
         </figcaption>
-    {{- end -}}
-</figure>
+    </figure>
+{{- else -}}
+    {{- dict "Src" .Destination "Title" .Text "Resources" .Page.Resources | partial "plugin/image.html" -}}
+{{- end -}}
