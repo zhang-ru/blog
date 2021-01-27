@@ -8,21 +8,27 @@ defaultContentLanguage = "zh-cn"
 theme = "LoveIt"
 # themes directory
 # 主题目录
-themesDir = "../.."
+# themesDir = "../.."
 
 # website title
 # 网站标题
 title = "Zhang Ru's Blog"
 
-# whether to use robots.txt
-# 是否使用 robots.txt
-enableRobotsTXT = true
-# whether to use git commit log
-# 是否使用 git 信息
-enableGitInfo = true
+enableGitInfo = false
+# whether to include chinese/japanese/korean
+hasCJKLanguage = true
+# default amount of posts in each pages
+paginate = 10
 # whether to use emoji code
-# 是否使用 emoji 代码
 enableEmoji = true
+# whether to use robots.txt
+enableRobotsTXT = true
+# [UA-XXXXXXXX-X] google analytics code
+googleAnalytics = ""
+# copyright description used only for seo schema
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+# date format
+dateFormatToUse = "2006-01-02"
 
 
 [params]
