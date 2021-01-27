@@ -1,7 +1,7 @@
 BaseURL = "https://zhang-ru.github.io/blog/"
 languageCode = "zh-CN"
 Title = "ZR's Blog"
-theme = "hyde"
+theme = "LoveIt-master"
 disqusShortname = "spf13"
 hasCJKLanguage = true
 enableEmoji = true
